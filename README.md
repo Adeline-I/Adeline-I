@@ -53,5 +53,5 @@
 ### &#x1F4EB; Comment me joindre ? me suivre ?
 
 - [CV Numérique](https://adeline-i.github.io/CV/)
-- ![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white?)
+- [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=plastic&logo=linkedin&logoColor=white?)]
   (https://www.linkedin.com/in/adeline-izri-7575a9127/)
