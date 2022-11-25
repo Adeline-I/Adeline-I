@@ -1,16 +1,56 @@
-### Hi there 👋
+### Hello !!! &#x1F44B;
 
-<!--
-**Adeline-I/Adeline-I** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+![bannière](/assets/img/banniere.png)
 
-Here are some ideas to get you started:
+### &#x1F64B; Qui suis-je ?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Je m'appelle Adeline IZRI.
+- Je suis Développeuse Web et Web Mobile.
+- Je suis actuellement à la recherche d'un contrat de professionnalisation pour commencer une formation de Concepteur Développeur d'Applications (CDA).
+
+### Mes compétences ? &#x1F4A1;
+
+#### Langages
+
+- PHP 7
+- HTML 5
+- CSS 3
+- JavaScript
+
+#### Base de données
+
+- MySQL
+
+#### Frameworks
+
+- Bootstrap
+- React Native
+- Symfony 5
+- Angular
+
+#### CMS
+
+- WordPress
+
+#### Design
+
+- Figma
+- Adobe Xd
+
+#### Outils de développement
+
+- Git
+- GitHub
+- VS Code
+- Laragon
+- Firebase
+
+#### Gestion de Projet
+
+- Trello
+- Agile - SCRUM
+
+### &#x1F4EB; Comment me joindre ? me suivre ?
+
+- [CV Numérique](https://adeline-i.github.io/CV/)
+- [Linkedin](https://www.linkedin.com/in/adeline-izri-7575a9127/)
