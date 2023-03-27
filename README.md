@@ -52,5 +52,5 @@
 
 ### &#x1F4EB; Comment me joindre ? me suivre ?
 
-- [CV Numérique](https://adeline-i.github.io/CV/)
-- [LinkedIn](https://www.linkedin.com/in/adeline-izri-7575a9127/)
+- [CV Numérique](https://adeline-i.github.io/Portfolio)
+- [LinkedIn](https://www.linkedin.com/in/adeline-izri)
