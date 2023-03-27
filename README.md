@@ -16,10 +16,12 @@
 ![HTML_5](https://img.shields.io/badge/-HTML_5-E34F26?style=plastic&logo=html5&logoColor=white)
 ![CSS_3](https://img.shields.io/badge/-CSS_3-1572B6?style=plastic&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=plastic&logo=javascript&logoColor=white)
+![C_Sharp](https://img.shields.io/badge/-CSharp-239120?style=plastic&logo=csharp&logoColor=white)
 
 #### Base de données
 
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=plastic&logo=mysql&logoColor=white)
+![SQL_Server](https://img.shields.io/badge/-MicrosoftSQLServer-CC2927?style=plastic&logo=microsoftsqlserver&logoColor=white)
 
 #### Frameworks
 
